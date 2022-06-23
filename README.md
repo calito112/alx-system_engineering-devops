@@ -1,2 +1,2 @@
 #!/bin/bash
-ALX system engineering.
+ALX system engineering.\n
